@@ -13,7 +13,7 @@ import ReactLoading from 'react-loading';
 function Register(props, getAccount) {
 
     let [accadress, setaccadress] = useState('')
-    let [regisdterAdress, setRegisdterAdress] = useState('0xD5db0cB58648e8Bc91267c9f25BDDBD7FA9466B2')
+    let [regisdterAdress, setRegisdterAdress] = useState('0x50ff19827ea44e76456b172100ae4e5971c983a0')
     let [amount, setAmount] = useState('')
     const [RefID, setRefID] = useState("")
     let [loader, setloader] = useState(false)
